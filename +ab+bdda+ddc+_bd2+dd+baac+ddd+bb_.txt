@@ -1,0 +1,4 @@
++ab+ +ab+ +ab+ +ab+ +a_+ +_a+ +da+ +da+ +da+ +da+ +d_+ +_d+ +dd+ +dd+ +dd+ +dd+ +dd+ +dd+ +dd+ +dd+ +dd+
+bdda bdda bdda bd_a bdba bdba b_ba bdba bdba bd_a bdaa bdaa b_aa ba_a baa_ baac baac baac baac baac baac
++ddc +ddc +d_c +ddc +ddc +ddc +ddc +_dc +d_c +dbc +dbc +dbc +dbc +dbc +dbc +db_ +dbd +dbd +d_d +dd_ +ddd
++_bd +b_d +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bdd +bd_ +b_d +bbd +bbd +bb_
