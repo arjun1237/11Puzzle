@@ -2,4 +2,4 @@
 Intelligence Systems project
 
 
-Read "assessment.pdf"
+Read "assessment.pdf" to understand the premise
